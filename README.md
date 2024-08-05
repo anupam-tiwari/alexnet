@@ -1,0 +1,2 @@
+# alexnet-
+alexnet from scratch 
